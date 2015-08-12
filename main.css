@@ -1,0 +1,50 @@
+/* CSS file for all html pages included in this folder*/
+
+.header {
+	background-color: blue;
+	font-family: 'Rock Salt', cursive;
+	width: 100%;
+	height: 125px;
+	position: fixed;
+}
+
+.nav {
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+
+.logo {
+    float: left;
+    padding-bottom: 1%;
+    padding-left:10px;
+    padding-right: 100px;
+}
+
+.index_About {
+    float: left;
+    width: 75px;
+    padding-right:30%;
+    padding-bottom:10px;
+}
+
+.index_SW {
+    float: left;
+    width: 75px;
+    padding-right:30%;
+    padding-bottom:10px;
+}
+
+.index_Donate {
+    float: left;
+    width: 75px;
+    padding-right:30%;
+    padding-bottom:10px;
+}
+
+.searchBox {
+    float: left;
+    width: 75px;
+    padding-right:30%;
+    padding-bottom:10px;
+}
